@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/home/niloy/miniconda3/envs/iit-madras-bot/bin/python",
+    "jupyter.kernels.filter": [],
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ]
+}
